@@ -1,0 +1,7 @@
+[TeamA] won the match against [TeamB] in week [week] match on [date] in [season].
+[TeamA] has [#ofWinsTeamA] wins and [#ofLosesTeamA] loses.
+[TeamB] has [#ofWinsTeamB] wins and [#ofLosesTeamB] loses.
+[TeamA] ranks [TeamA-rank] in this season and [TeamB] ranks [TeamB-rank] in this season.
+
+
+
